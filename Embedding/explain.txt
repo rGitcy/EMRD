@@ -1,0 +1,1 @@
+We use SDNE as the base model for our embedding.
